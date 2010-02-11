@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-Schrodinger-Do
-version:            0.01
+version:            0.02
 abstract:           do block occasionally
 author:
     - Kwok Lok Chung, Baggio <rootkwok@cpan.org>
